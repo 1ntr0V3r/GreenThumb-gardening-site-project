@@ -66,4 +66,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 For any questions or suggestions, please contact us at:
-- **Amine:** your-email@example.com
+- **AER:** rbamine03@gmail.com
